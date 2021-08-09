@@ -1,0 +1,7 @@
+load animations and images 
+
+1 step1: create two variables (trex,trexrunning )
+2. step2:create sprite with one variable(eg:trex)
+        with other variable i load image , animation 
+3. spritename.addAnimation(imagevariable)
+trex.addanimation(trexrunning)
